@@ -2,7 +2,7 @@
 
 ### Overview
 
-Hello and welcome! My name is Cecilia, and in this amazing project, I will demonstrate how to build and deploy a demo fintech app on Amazon Web Services (AWS) using the using the [AWS Amplify](https://aws.amazon.com/amplify/) framework and [Plaid](https://plaid.com/docs/link/) link API (application programming interface). 
+Hello and welcome! My name is Eugene, and in this project, I will demonstrate how to build and deploy a demo fintech app on Amazon Web Services (AWS) using the using the [AWS Amplify](https://aws.amazon.com/amplify/) framework and [Plaid](https://plaid.com/docs/link/) link API (application programming interface). 
 
 
 AWS Amplify will enable us to quickly build a serverless web app with the following components:
@@ -357,6 +357,4 @@ Nice work! Now we will begin the clean up process, so that we can prevent charge
 
 ----------------------------------------------------------------------
 
-Wonderful job! Thank you for viewing my project and following along. We learned how to use AWS Amplify to create a secure, scalable, and completely serverless fintech app on AWS. I hope you enjoyed it! For more details on similar projects and more, please visit my GitHub portfolio: https://github.com/ceciliacloud
-
-![](./images/giphy.gif)
+Wonderful job! Thank you for viewing my project and following along. We learned how to use AWS Amplify to create a secure, scalable, and completely serverless fintech app on AWS. I hope you enjoyed it! 
